@@ -1,0 +1,32 @@
+  {
+    "produto": {
+      "modelo": "Bugatti Chiron",
+      "preco": "R$50,000,000",
+      "marca": "Bugatti",
+      "ano": "2023"
+    },
+    "metodos_pagamento": {
+      "cartao": "Cartão de Crédito/Débito",
+      "boleto": "Boleto Bancário"
+    },
+    "cartao": {
+      "bandeira": "Visa",
+      "numero": "4111111111111111",
+      "titular": "João Silva",
+      "validade": "12/29",
+      "cvv": "123"
+    },
+    "erros": {
+      "cartao_numero": "Número do cartão é obrigatório.",
+      "cartao_titular": "Nome no cartão é obrigatório.",
+      "cartao_validade": "Validade é obrigatória.",
+      "cartao_cvv": "CVV é obrigatório."
+    },
+   "mensagens": {
+      "sucesso": {
+        "boleto": "Boleto gerado com sucesso! Verifique abaixo",
+        "cartao": "Pagamento com cartão realizado com sucesso!"
+      }
+    }
+  }
+  

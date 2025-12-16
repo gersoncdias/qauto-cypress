@@ -1,0 +1,15 @@
+{
+  "newsletter": {
+    "newsletterTitle": "Inscreva-se na nossa Newsletter",
+    "inputEmail": "usuario@teste.com",
+    "invalidEmail": "usuarioteste",
+    "placeholder": "Digite seu e-mail",
+    "messageSucess": "E-mail cadastrado com sucesso!",
+    "messageError": "Digite um e-mail válido",
+    "messagemailInvalid": "Inclua um \"@\" no endereço de e-mail"
+  },
+  "shelf": {
+    "title": "Destaques",
+    "product": "Bugatti Chiron"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "newsletter": {
+    "email_invalido": "emailinvalido.com",
+    "messageSucess": "Email adicionado com sucesso!",
+    "messageError": "Email é obrigatório.",
+    "message_delete_error": "Email não encontrado.",
+    "message_delete_sucess": "Email deletado com sucesso!",
+    "message_erro_email": "Formato de email inválido."
+  },
+  "user": {
+    "message_create_sucess": "Usuário cadastrado com sucesso!",
+    "message_erro_create": "Formato de email inválido.",
+    "message_erro_data":  "Nome, Sobrenome, E-mail e Senha são obrigatórios.",
+    "message_nome_ivalid": "Nome deve conter apenas letras.",
+    "message_sobre_nome_ivalid":  "Sobrenome deve conter apenas letras.",
+    "message_phone_ivalid":  "Telefone inválido. Use apenas números (DDD + número), com 10 ou 11 dígitos.",
+     "message_erro_email": "Formato de email inválido."
+  },
+  "help": {
+    "message_create_sucess": "Solicitação enviada com sucesso!",
+    "message_erro_create": "Todos os campos são obrigatórios.",
+    "message_erro_email": "Formato de email inválido."
+  }
+}

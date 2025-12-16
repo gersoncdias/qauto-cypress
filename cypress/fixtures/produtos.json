@@ -1,0 +1,16 @@
+{
+  "produto": {
+    "titulo": "Bugatti Chiron",
+    "descricao": "A Bugatti é a personificação de luxo e velocidade extrema.",
+    "detalhes": {
+      "id": "2",
+      "brand": "Bugatti",
+      "year": "2023",
+      "power": "1500 HP",
+      "fuel": "Gasolina",
+      "price": "R$50,000,000",
+      "btn_comprar": "Comprar Agora"
+    }
+  }
+}
+

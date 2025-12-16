@@ -1,0 +1,25 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "Antes de instalar o Cypress, certifique-se de que seu sistema atende aos seguintes requisitos:",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test:desktop": "npx cypress run --browser chrome --config viewportWidth=1920,viewportHeight=1080 --spec 'cypress/e2e/ui/*'",
+    "test:mobile": "npx cypress run --browser chrome --config viewportWidth=360,viewportHeight=740 --spec 'cypress/e2e/ui/*'",
+    "test:all": "npm run test:desktop && npm run test:mobile",
+    "test:api": "npx cypress run --spec 'cypress/e2e/api/*'",
+    "generate:report": "node cypress/support/utils/generate-report.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^9.4.0",
+    "@shelex/cypress-allure-plugin": "^2.40.2",
+    "cypress": "^14.0.1",
+    "mocha-allure-reporter": "^1.4.0"
+  },
+  "dependencies": {
+    "faker-br": "^0.4.1"
+  }
+}

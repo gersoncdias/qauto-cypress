@@ -1,0 +1,31 @@
+# Dependências e caches
+node_modules/
+.npm/
+
+# Variáveis de ambiente
+.env
+.env.*
+
+# Logs e arquivos temporários
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Artefatos do Cypress
+cypress/screenshots/
+cypress/videos/
+cypress/downloads/
+cypress/reports/
+reports/
+
+# Relatórios Allure/coverage
+allure-results/
+allure-report/
+coverage/
+
+# Arquivos do sistema operacional/IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

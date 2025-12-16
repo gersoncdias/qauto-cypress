@@ -1,0 +1,26 @@
+{
+  "title": "Cadastro",
+  "successMessage": "Cadastro realizado com sucesso!",
+  "errors": {
+    "name": "Nome é obrigatório.",
+    "surname": "Sobrenome é obrigatório.",
+    "email": "E-mail é obrigatório.",
+    "password": "Senha é obrigatória."
+  },
+  "validUser": {
+    "name": "João",
+    "surname": "Silva",
+    "phone": "11999999999",
+    "email": "joao.silva@email.com",
+    "password": "senhaForte123",
+    "gender": "male",
+    "state": "São Paulo"
+  },
+  "invalidUser": {
+    "name": "",
+    "surname": "",
+    "phone": "",
+    "email": "",
+    "password": ""
+  }
+}

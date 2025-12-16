@@ -1,0 +1,25 @@
+{
+   "titulo": "Página de Ajuda",
+   "sub_titulo": "Aqui você encontra respostas para dúvidas frequentes e pode enviar sua solicitação diretamente para nossa equipe.",
+"faq": {
+"titulo": "Perguntas Frequentes",
+"pergunta1":  "Como faço login na plataforma?",
+"resposta1": "Clique no botão \"Login\" no topo da página, insira suas credenciais (email e senha) e clique em \"Entrar\".",
+"pergunta2": "Como entro em contato com o suporte?",
+"resposta2": "Você pode preencher o formulário abaixo ou enviar um email para suporte@qauto.com.",
+"pergunta3": "Quais navegadores são suportados?",
+"resposta3":"Nossa plataforma é compatível com os navegadores mais recentes, como Google Chrome, Mozilla Firefox, Microsoft Edge e Safari."
+},
+"formulario": {
+  "titulo": "Formulário de Contato",
+  "descricao": "Preencha os campos abaixo para enviar sua solicitação.",
+  "btn_enviar": "Enviar",
+  "texto_nome": "Nome",
+  "texto_email": "Email",
+  "texto_mesg": "Mensagem",
+  "input_text_msg": "Olá, gostaria de mais informações sobre o suporte técnico.",
+  "texto_sucesso": "Solicitação enviada com sucesso!",
+  "texto_erro": "Todos os campos são obrigatórios."
+}
+  }
+  

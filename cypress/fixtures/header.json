@@ -1,0 +1,14 @@
+{
+    "logo_alt": "Logo QAuto",
+    "nav": {
+      "home": "Home",
+      "about": "Sobre Nós",
+      "cars": "Carros",
+      "help": "Ajuda"
+    },
+    "auth": {
+      "login": "Login",
+      "register": "Cadastro"
+    }
+  }
+  

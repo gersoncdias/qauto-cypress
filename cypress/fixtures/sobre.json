@@ -1,0 +1,27 @@
+{
+    "sobre": {
+      "title": "Sobre Nós",
+      "section_values": {
+        "title": "Nossos Valores",
+        "content": {
+          "excelencia": "Excelência:",
+          "qualidade": "Oferecemos veículos e serviços de alta qualidade.",
+          "confianca": "Confiança:",
+          "compra": "Transparência em cada etapa da sua compra.",
+          "paixao": "Paixão:",
+          "sonho": "Acreditamos no poder de dirigir carros dos sonhos."
+        }
+      },
+      "section_who": {
+        "title": "Quem Somos",
+        "content": {
+          "empresa": "QAuto",
+          "especialidade": "carros importados",
+          "experiencia": "oferecendo uma experiência única para os amantes de veículos premium.",
+          "desde": "Desde 2010, transformamos sonhos em realidade",
+          "marcas": "com uma seleção criteriosa de marcas renomadas como BMW, Mercedes-Benz, Porsche e Tesla."
+        }
+      }
+    }
+  }
+  

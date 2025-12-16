@@ -1,0 +1,25 @@
+export const headerElements = {
+  header: '[data-qa-id="qa_header_appbar"]',
+  logo: '[data-qa-id="qa_header_logo"]',
+  navHome: '[data-qa-id="qa_header_nav_home"]',
+  navAbout: '[data-qa-id="qa_header_nav_about"]',
+  navCars: '[data-qa-id="qa_header_nav_cars"]',
+  navHelp: '[data-qa-id="qa_header_nav_help"]',
+  loginButton: '[data-qa-id="qa_header_auth_login"]',
+  registerButton: '[data-qa-id="qa_header_auth_register"]',
+  mobileMenuButton: ".mobile-menu-icon",
+  mobileNavMenu: ".MuiDrawer-paper",
+  mobile: {
+    menuHamburguer: ".mobile-menu-icon",
+    modalMenu: ".MuiBox-root.css-gxgzfp",
+    botaoFechar: ".css-auoq4t",
+    botoesNavegacao: {
+      home: "button:contains('Home')",
+      sobreNos: "button:contains('Sobre Nós')",
+      carros: "button:contains('Carros')",
+      ajuda: "button:contains('Ajuda')",
+      login: "button:contains('Login')",
+      cadastro: "button:contains('Cadastro')",
+    },
+  },
+};

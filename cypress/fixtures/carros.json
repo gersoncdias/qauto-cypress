@@ -1,0 +1,66 @@
+{
+  "sedans": {
+    "bmwM7": {
+      "alt": "BMW M7 60LI",
+      "name": "BMW M7 60LI",
+      "description": "O BMW é conhecido por seu design sofisticado e desempenho poderoso.",
+      "price": "R$699,000"
+    },
+    "bugattiChiron": {
+      "alt": "Bugatti Chiron",
+      "name": "Bugatti Chiron",
+      "description": "A Bugatti é a personificação de luxo e velocidade extrema.",
+      "price": "R$50,000,000"
+    },
+    "mercedesCabriolet": {
+      "alt": "Mercedes Cabriolet",
+      "name": "Mercedes Cabriolet",
+      "description": "Luxo e inovação se encontram na Mercedes.",
+      "price": "R$413.900"
+    },
+    "rollsRoyce": {
+      "alt": "Rolls-Royce Phantom",
+      "name": "Rolls-Royce Phantom",
+      "description": "A Rolls-Royce é sinônimo de elegância e conforto.",
+      "price": "R$6.551.128"
+    },
+    "alfaRomeo": {
+      "alt": "Alfa Romeo Giulia GTAm",
+      "name": "Alfa Romeo Giulia GTAm",
+      "description": "O Alfa Romeo é sinônimo de elegância e conforto.",
+      "price": "R$6.551.128"
+    }
+  },
+  "suvs": {
+    "volvoXC90": {
+      "alt": "Volvo XC90 T8",
+      "name": "Volvo XC90 T8",
+      "description": "A Volvo é sinônimo de segurança e conforto.",
+      "price": "R$544.634"
+    },
+    "lamborghini": {
+      "alt": "Lamborghini Urus",
+      "name": "Lamborghini Urus",
+      "description": "A Lamborghini Urus é sinônimo de segurança e conforto.",
+      "price": "R$4.069.740,00"
+    },
+    "bmwX6": {
+      "alt": "BMW X6 M Competition",
+      "name": "BMW X6 M Competition",
+      "description": "A BMW X6 M Competition é sinônimo de segurança e conforto",
+      "price": "R$858.950,00"
+    },
+    "mercedesG63": {
+      "alt": "Mercedes-Benz G63",
+      "name": "Mercedes-Benz G63",
+      "description": "A Mercedes-Benz G63 é sinônimo de segurança e conforto.",
+      "price": "R$1.858,000"
+    },
+    "rangeRover": {
+      "alt": "Range Rover Sport PHEV",
+      "name": "Range Rover Sport PHEV",
+      "description": "A Range Rover Sport PHEV  é sinônimo de segurança e conforto.",
+      "price": "R$958,000"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Login",
+  "invalidCredentials": "Credenciais inválidas. Tente novamente.",
+  "emptyFields": "Por favor, preencha todos os campos.",
+  "validUser": {
+    "email": "hmbrasil.automation@gmail.com",
+    "password": "111",
+    "name": "Hmbrasil"
+  },
+  "invalidUser": {
+    "email": "usuario@errado.com",
+    "password": "senhaErrada"
+  }
+}
