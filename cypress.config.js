@@ -3,6 +3,8 @@ const fs = require("fs");
 const path = require("path");
 
 module.exports = defineConfig({
+  projectId: "62xi1k",
+
   e2e: {
     baseUrl: "https://qauto.websitesa.app.br/",
     specPattern: "cypress/e2e/**/*.cy.js",
@@ -15,7 +17,6 @@ module.exports = defineConfig({
     reporter: "spec",
 
     setupNodeEvents(on, config) {
-      // Gera relatório JSON simples ao final da execução
       on("after:run", (results) => {
         const reportsDir = path.resolve(__dirname, "cypress", "reports");
         fs.mkdirSync(reportsDir, { recursive: true });
